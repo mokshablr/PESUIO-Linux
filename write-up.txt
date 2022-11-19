@@ -1,0 +1,24 @@
+In this Linux course we learnt about some basic linux commands, shell scripts, kernel coding, syscalls (sussysys ;) ).
+
+Commands:
+cd - change directory
+
+mkdir- make a new folder/directory
+
+vi <file name> - to edit a file or make a new file if it doesn't exist using vi.
+
+htop - to see processor activities
+
+lsblk - to show your filesystem
+
+
+
+cowsay <message> - fun way to show a message or output
+
+oneko - for the times when you feel alone, have your own pet friend!
+
+lolcat - for the times when you feel a little fruity ;)
+
+figlet - to create text with cool fonts
+
+
